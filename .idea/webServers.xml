@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="37537443-664d-4f34-a343-dba6a207760d" name="WE" url=" https://team14.wi1cm.uni-trier.de/public/">
+        <fileTransfer accessType="FTPS" host="hosting.wi1cm.uni-trier.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1c464464-f746-4bb9-bf5d-ae24a4b16545" name="WES" url="http://localhost">
+        <fileTransfer mountedRoot="D:\XAMPP\htdocs\web-entwicklung" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
